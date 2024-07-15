@@ -30,7 +30,7 @@
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🖥️ Technical Skills: </h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
    <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg"alt="HTML" width="40" height="40"/>
