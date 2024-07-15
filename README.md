@@ -1,4 +1,4 @@
-
+<img  alter="center" alt="Coding"  height="550"  width="1250" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
 
 <h1 align="center">Hi 👋, I'm Dhanush D</h1>
 <h3 align="center">A passionate developer from India</h3>
